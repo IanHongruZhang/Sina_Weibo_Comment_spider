@@ -13,7 +13,6 @@ or adjest the DOWNLOAD_DELAY = 2 in settings.py
 """
 
 myWeiBo = [
-    {'no': '15652712198', 'psw': '945180zyj'},
     {'no': '15855985691', 'psw': 'xingmima008924'},
     {'no': '15858004758', 'psw': 'kulytnb5'},
     {'no': '15855563569', 'psw': 'phripqh7'},
